@@ -174,12 +174,73 @@ Bộ não của bạn cần biết rằng điều này rất quan trọng. Tham 
 
 **10. Ngủ đi.**
 
-Bạn phải tạo ra rất nhiều kết nối não bộ mới để học cách lập trình. Ngủ thường xuyên; nó hữu ích.
+Bạn phải tạo ra rất nhiều kết nối não bộ mới để học cách lập trình. Ngủ thường xuyên; nó hữu ích cho bạn và cả việc học.
 
-# Đọc tôi
+## Đọc tôi
 
 Đây là kinh nghiệm học tập, không phải sách tham khảo. Chúng tôi cố tình loại bỏ mọi thứ có thể cản trở việc học bất cứ thứ gì mà chúng tôi đang làm vào thời điểm đó trong cuốn sách. Và lần đầu tiên, bạn cần phải bắt đầu từ đầu, bởi vì cuốn sách đưa ra các giả định về những gì bạn đã thấy và đã học.
 
-## Chúng tôi muốn bạn học quá trình tư duy đằng sau việc lập trình.
+### Chúng tôi muốn bạn học quá trình tư duy đằng sau việc lập trình.
 
 Một số người có thể gọi đó là khoa học máy tính, nhưng đây là một bí mật nhỏ: khoa học máy tính không phải là khoa học và nó thậm chí không phải là tất cả những gì liên quan đến máy tính (hơn cả thiên văn học là về kính thiên văn). Đó là một cách tư duy, ngày nay còn được gọi là tư duy tính toán, và một khi bạn học cách suy nghĩ tính toán, bạn sẽ có một vị trí tốt để áp dụng nó vào bất kỳ vấn đề, môi trường hoặc ngôn ngữ lập trình nào.
+
+### Trong cuốn sách này, chúng tôi sử dụng Python.
+
+Học lái xe mà không có phương tiện thì chỉ là lý thuyết. Và học cách suy nghĩ tính toán mà không cần ngôn ngữ lập trình chỉ là một thử nghiệm suy nghĩ hơn là một kỹ năng. Vì vậy, trong cuốn sách này, chúng tôi sử dụng ngôn ngữ Python. Là một ngôn ngữ rất phổ biến, Python là một lựa chọn tốt để bắt đầu (có thể là cả kết thúc).
+
+### Chúng tôi không đề cập đầy đủ mọi khía cạnh của ngôn ngữ Python.
+
+Có rất nhiều điều bạn có thể học về Python. Cuốn sách này không phải là một cuốn sách tham khảo, nó là một cuốn sách học tập, vì vậy nó không bao gồm tất cả những gì cần biết về Python. Mục tiêu của chúng tôi là dạy cho bạn các nguyên tắc cơ bản về mã hóa và tư duy tính toán để bạn có thể chọn một cuốn sách về *bất kỳ ngôn ngữ lập trình* nào và không cảm thấy bị lạc lõng hoàn toàn.
+
+### Bạn có thể sử dụng Mac hoặc PC hoặc Linux.
+
+Vì Python là phương tiện chính của chúng tôi được sử dụng trong cuốn sách này và nó là nền tảng đa nền tảng, bạn có thể sử dụng bất kỳ hệ điều hành nào bạn đã quen. Hầu hết các ảnh chụp màn hình trong cuốn sách này là từ máy Mac, nhưng chúng sẽ trông giống nhau trên hộp PC hoặc Linux của bạn.
+
+**Cuốn sách này ủng hộ mã có cấu trúc tốt và dễ đọc dựa trên các phương pháp hay nhất**. Bạn muốn viết mã mà bạn và những người khác có thể đọc và hiểu, mã sẽ vẫn hoạt động trong phiên bản Python của năm tới. Trong cuốn sách này, chúng tôi sẽ dạy bạn viết mã rõ ràng, được tổ chức tốt ngay từ lúc bắt đầu — mã bạn có thể tự hào, mã bạn muốn đóng khung và dán lên tường. Điều duy nhất khác với những gì chúng ta viết dưới dạng mã chuyên nghiệp là cuốn sách này sử dụng các chú thích viết tay bên cạnh mã để giải thích mã đang làm gì. Chúng tôi nhận thấy điều này hoạt động tốt hơn trong một cuốn sách học tập so với các nhận xét truyền thống trong mã (nếu bạn không biết chúng tôi đang nói về điều gì, bạn sẽ làm vậy; chỉ cần cung cấp cho nó một vài chương). Nhưng đừng lo lắng vì chúng tôi sẽ dạy bạn cách ghi lại mã của bạn và chúng tôi sẽ chỉ cho bạn các ví dụ về cách chúng tôi ghi lại mã của riêng mình.
+
+**Lập trình là công việc kinh doanh nghiêm túc.** Bạn sẽ phải làm việc, đôi khi rất vất vả. Một lập trình viên có một tư duy khác, một cách nghĩ khác về thế giới. Đôi khi bạn sẽ thấy mã hóa rất logic, trong khi những lúc khác, nó có thể rất trừu tượng. Một số khái niệm lập trình cần thời gian để ngấm vào bộ não của bạn. Nhưng đừng lo lắng; chúng tôi sẽ làm tất cả những điều đó theo cách thân thiện với não bộ. Chỉ cần dành thời gian của bạn, cho các khái niệm thời gian để đi sâu vào và xem lại tài liệu nhiều lần nếu cần.
+
+### Các bài tập KHÔNG phải là tùy chọn.
+
+Các bài tập và hoạt động trong cuốn sách này không phải là phần bổ trợ; chúng là một phần nội dung cốt lõi của cuốn sách. Một số trong số chúng là để giúp trí nhớ, một số để hiểu và một số sẽ giúp bạn áp dụng những gì bạn đã học. Nếu bạn bỏ qua chúng, bạn sẽ bỏ lỡ những phần lớn của cuốn sách (và có thể bạn sẽ rất bối rối).
+
+### Sự lập lại là có chủ đích và quan trọng.
+
+Một điểm khác biệt trong cuốn sách là chúng tôi muốn bạn thực sự hiểu được nó. Và chúng tôi muốn bạn hoàn thành cuốn sách ghi nhớ những gì bạn đã học. Hầu hết các sách tham khảo không có mục tiêu lưu giữ và nhớ lại, nhưng sách này là về học tập, vì vậy bạn sẽ thấy một số khái niệm giống nhau xuất hiện nhiều lần.
+
+### Các ví dụ càng gọn gàng càng tốt.
+
+Độc giả của chúng tôi cho chúng tôi biết rằng thật khó chịu khi phải lội qua 200 dòng của một ví dụ để tìm hai dòng mà họ cần hiểu. Hầu hết các ví dụ trong cuốn sách này được hiển thị trong ngữ cảnh nhỏ nhất có thể, để phần bạn đang cố gắng học rõ ràng và đơn giản. Đừng mong đợi tất cả các ví dụ đều phải hoàn hảo — chúng được viết riêng cho việc học và không phải lúc nào cũng hoạt động đầy đủ. Điều đó nói rằng, đối với các ví dụ lớn hơn, chúng tôi cũng cố gắng làm cho chúng trở nên thú vị, hấp dẫn — điều gì đó bạn muốn cho bạn bè và gia đình của mình xem.
+
+Chúng tôi đã đặt tất cả các tệp mẫu trên web để bạn có thể tải xuống. Bạn sẽ tìm thấy chúng tại <http://wickedlysmart.com/hflearntocode.>
+
+## Sự nhìn nhận
+
+Trước hết, xin gửi lời cảm ơn sâu sắc tới những người đánh giá kỹ thuật đáng kính của tôi: Elisabeth Robson đã xem xét cẩn thận và chuyên nghiệp bản thảo với con mắt khoa học máy tính và Head First nhạy bén. Josh Sharfman là người đánh giá MVP, người đã thêm chiều sâu và chất lượng cho mọi góc của cuốn sách. David Powers - theo phong cách thông thường của mình, đã xem xét kỹ lưỡng các văn bản kỹ thuật (kiến thức về Harry Potter của anh ấy cũng không quá tồi). Và tác giả kỳ cựu của Head First , Paul Barry đã cung cấp một con mắt phê bình rất cần thiết về Python. Ngoài ra, nhóm đánh giá của tôi là vô giá trên mọi khía cạnh của việc đánh giá cuốn sách.
+
+![](https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781491958858/files/assets/fxxxvii-01.png)
+
+Lời cảm ơn lớn nhất của tôi tới các biên tập viên của tôi, Jeff Bleiel , Dawn Schanafelt và Meghan Blanchette. Meghan là người có công trong việc đưa cuốn sách này thành công, Dawn đã cẩn thận xem nó qua các giai đoạn phát triển ban đầu của nó và Jeff đưa cuốn sách đến khi xuất bản.
+
+Cũng xin gửi lời cảm ơn sâu sắc đến toàn bộ đội O'Reilly bao gồm Susan Conant, Rachel Roumeliotis và Melanie Yarbrough. Tại WickedlySmart, cảm ơn Jamie Burton vì tất cả sự giúp đỡ của cô ấy, bao gồm cả các cuộc khảo sát người đọc sớm và quản lý diễn đàn của nhóm đánh giá. Và như mọi khi, cảm ơn Bert Bates và Kathy Sierra về nguồn cảm hứng, cuộc thảo luận thú vị và tất cả sự trợ giúp của họ để giải quyết các câu hỏi hóc búa về viết lách. Cảm ơn Cory Doctorow đã hỗ trợ và cho mượn bài viết của anh ấy cho Chương 8.
+
+Cuối cùng, một số cá nhân và tổ chức đã vô tình truyền cảm hứng cho các khía cạnh của cuốn sách này, bao gồm Daniel P. Friedman, Nathan Bergey, Raspberry Pi Foundation và Socratica.
+
+![](https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781491958858/files/assets/fxxxvii-02.png)
+
+![](https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781491958858/files/assets/fxxxvii-03.png)
+
+### Gặp gỡ nhóm đánh giá!
+
+Một nhóm người tuyệt vời đã nhận xét cuốn sách này. Với nguồn gốc từ người mới đến chuyên gia và các nghề nghiệp đa dạng như kiến ​​trúc sư, nha sĩ, giáo viên tiểu học, đại lý bất động sản và giáo viên khoa học máy tính AP, họ đã tham gia trên toàn cầu từ Albania đến Australia, từ Kenya đến Kosovo, từ Hà Lan đến Nigeria đến New Zealand.
+
+Nhóm này đọc mọi trang, làm mọi bài tập, nhập và thực thi mọi dòng mã, cung cấp phản hồi và khuyến khích hơn 600 trang. Họ cũng tự mình làm việc như một nhóm, giúp đỡ lẫn nhau thông qua các khái niệm mới, kiểm tra lại các lỗi và xác định các vấn đề trong văn bản và mã.
+
+*Mọi người đánh giá ở đây đều có những đóng góp đáng kể cho cuốn sách này và đã cải thiện đáng kể chất lượng của nó.*
+
+**Cảm ơn bạn!**
+
+![](https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781491958858/files/assets/fxxxviii-01.png)
+
+Cũng xin gửi lời cảm ơn sâu sắc đến **Christopher Davies, Constance Mallon và Wanda Hernandez** vì những đóng góp đáng kể của họ cho cuốn sách này.
+
