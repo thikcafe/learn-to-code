@@ -68,15 +68,15 @@ Vì vậy, những gì nó cần để học một cái gì đó? Đầu tiên, 
 
 Một số nguyên tắc học tập của Head First:
 
-** Làm cho nó trực quan. ** Hình ảnh đáng nhớ hơn nhiều so với từ ngữ đơn thuần và làm cho việc học tập hiệu quả hơn nhiều (cải thiện tới 89% trong các nghiên cứu nhớ lại và chuyển giao). Nó cũng làm cho mọi thứ dễ hiểu hơn. Đặt các từ bên trong hoặc gần hình ảnh mà chúng liên quan đến, thay vì ở dưới cùng hoặc trên trang khác, và người học sẽ có khả năng giải quyết các vấn đề liên quan đến nội dung cao hơn gấp đôi.
+ **Làm cho nó trực quan.**  Hình ảnh đáng nhớ hơn nhiều so với từ ngữ đơn thuần và làm cho việc học tập hiệu quả hơn nhiều (cải thiện tới 89% trong các nghiên cứu nhớ lại và chuyển giao). Nó cũng làm cho mọi thứ dễ hiểu hơn. Đặt các từ bên trong hoặc gần hình ảnh mà chúng liên quan đến, thay vì ở dưới cùng hoặc trên trang khác, và người học sẽ có khả năng giải quyết các vấn đề liên quan đến nội dung cao hơn gấp đôi.
 
-** Sử dụng phong cách trò chuyện và cá nhân hóa. ** Trong các nghiên cứu gần đây, sinh viên thực hiện tốt hơn tới 40% trong các bài kiểm tra sau khi học nếu nội dung nói trực tiếp với người đọc, sử dụng phong cách đối thoại, ngôi thứ nhất thay vì sử dụng giọng điệu trang trọng. Kể chuyện thay vì giảng bài. Sử dụng ngôn ngữ bình thường. Đừng quá coi trọng bản thân. Bạn sẽ chú ý đến điều nào hơn: một người bạn đồng hành trong bữa tiệc tối đầy hứng khởi, hay một bài giảng?
+ **Sử dụng phong cách trò chuyện và cá nhân hóa.**  Trong các nghiên cứu gần đây, sinh viên thực hiện tốt hơn tới 40% trong các bài kiểm tra sau khi học nếu nội dung nói trực tiếp với người đọc, sử dụng phong cách đối thoại, ngôi thứ nhất thay vì sử dụng giọng điệu trang trọng. Kể chuyện thay vì giảng bài. Sử dụng ngôn ngữ bình thường. Đừng quá coi trọng bản thân. Bạn sẽ chú ý đến điều nào hơn: một người bạn đồng hành trong bữa tiệc tối đầy hứng khởi, hay một bài giảng?
 
-** Giúp người học suy nghĩ sâu sắc hơn. ** Nói cách khác, trừ khi bạn chủ động linh hoạt các tế bào thần kinh của mình, không có gì xảy ra trong đầu bạn cả. Người đọc phải được thúc đẩy, tham gia, tò mò và có cảm hứng để giải quyết vấn đề, rút ​​ra kết luận và tạo ra kiến ​​thức mới. Và để làm được điều đó, bạn cần những thử thách, bài tập và câu hỏi kích thích tư duy cũng như các hoạt động liên quan đến cả hai bên não và nhiều giác quan.
+ **Giúp người học suy nghĩ sâu sắc hơn.**  Nói cách khác, trừ khi bạn chủ động linh hoạt các tế bào thần kinh của mình, không có gì xảy ra trong đầu bạn cả. Người đọc phải được thúc đẩy, tham gia, tò mò và có cảm hứng để giải quyết vấn đề, rút ​​ra kết luận và tạo ra kiến ​​thức mới. Và để làm được điều đó, bạn cần những thử thách, bài tập và câu hỏi kích thích tư duy cũng như các hoạt động liên quan đến cả hai bên não và nhiều giác quan.
 
-** Nhận — và giữ — sự chú ý của người đọc. ** Tất cả chúng ta đều có trải nghiệm “Tôi thực sự muốn tìm hiểu điều này, nhưng tôi không thể thức qua trang một”. Bộ não của bạn chú ý đến những thứ khác thường, thú vị, kỳ lạ, bắt mắt, bất ngờ. Học một chủ đề kỹ thuật mới, khó, không nhất thiết phải nhàm chán. Bộ não của bạn sẽ học nhanh hơn nhiều nếu không.
+ **Nhận — và giữ — sự chú ý của người đọc.**  Tất cả chúng ta đều có trải nghiệm “Tôi thực sự muốn tìm hiểu điều này, nhưng tôi không thể thức qua trang một”. Bộ não của bạn chú ý đến những thứ khác thường, thú vị, kỳ lạ, bắt mắt, bất ngờ. Học một chủ đề kỹ thuật mới, khó, không nhất thiết phải nhàm chán. Bộ não của bạn sẽ học nhanh hơn nhiều nếu không.
 
-** Chạm vào cảm xúc của họ. ** Bây giờ chúng ta biết rằng khả năng ghi nhớ điều gì đó của bạn phần lớn phụ thuộc vào nội dung cảm xúc của nó. Bạn nhớ những gì bạn quan tâm. Bạn nhớ khi bạn cảm thấy điều gì đó. Không, chúng tôi không nói những câu chuyện đau lòng về một cậu bé và con chó của cậu ấy. Chúng ta đang nói về những cảm xúc như ngạc nhiên, tò mò, vui vẻ, “cái gì…?” và cảm giác "Tôi thống trị!" điều đó xảy ra khi bạn giải một câu đố, học một thứ mà mọi người khác nghĩ là khó.
+ **Chạm vào cảm xúc của họ.**  Bây giờ chúng ta biết rằng khả năng ghi nhớ điều gì đó của bạn phần lớn phụ thuộc vào nội dung cảm xúc của nó. Bạn nhớ những gì bạn quan tâm. Bạn nhớ khi bạn cảm thấy điều gì đó. Không, chúng tôi không nói những câu chuyện đau lòng về một cậu bé và con chó của cậu ấy. Chúng ta đang nói về những cảm xúc như ngạc nhiên, tò mò, vui vẻ, “cái gì…?” và cảm giác "Tôi thống trị!" điều đó xảy ra khi bạn giải một câu đố, học một thứ mà mọi người khác nghĩ là khó.
 
 ## Siêu nhận thức: suy nghĩ về tư duy
 
@@ -176,8 +176,10 @@ Bộ não của bạn cần biết rằng điều này rất quan trọng. Tham 
 
 Bạn phải tạo ra rất nhiều kết nối não bộ mới để học cách lập trình. Ngủ thường xuyên; nó hữu ích.
 
+# Đọc tôi
 
+Đây là kinh nghiệm học tập, không phải sách tham khảo. Chúng tôi cố tình loại bỏ mọi thứ có thể cản trở việc học bất cứ thứ gì mà chúng tôi đang làm vào thời điểm đó trong cuốn sách. Và lần đầu tiên, bạn cần phải bắt đầu từ đầu, bởi vì cuốn sách đưa ra các giả định về những gì bạn đã thấy và đã học.
 
+## Chúng tôi muốn bạn học quá trình tư duy đằng sau việc lập trình.
 
-
-
+Một số người có thể gọi đó là khoa học máy tính, nhưng đây là một bí mật nhỏ: khoa học máy tính không phải là khoa học và nó thậm chí không phải là tất cả những gì liên quan đến máy tính (hơn cả thiên văn học là về kính thiên văn). Đó là một cách tư duy, ngày nay còn được gọi là tư duy tính toán, và một khi bạn học cách suy nghĩ tính toán, bạn sẽ có một vị trí tốt để áp dụng nó vào bất kỳ vấn đề, môi trường hoặc ngôn ngữ lập trình nào.
