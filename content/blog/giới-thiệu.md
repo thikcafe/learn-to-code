@@ -204,7 +204,7 @@ Vì Python là phương tiện chính của chúng tôi được sử dụng tro
 
 Các bài tập và hoạt động trong cuốn sách này không phải là phần bổ trợ; chúng là một phần nội dung cốt lõi của cuốn sách. Một số trong số chúng là để giúp trí nhớ, một số để hiểu và một số sẽ giúp bạn áp dụng những gì bạn đã học. Nếu bạn bỏ qua chúng, bạn sẽ bỏ lỡ những phần lớn của cuốn sách (và có thể bạn sẽ rất bối rối).
 
-### Sự lập lại là có chủ đích và quan trọng.
+### Sự lặp lại là có chủ đích và quan trọng.
 
 Một điểm khác biệt trong cuốn sách là chúng tôi muốn bạn thực sự hiểu được nó. Và chúng tôi muốn bạn hoàn thành cuốn sách ghi nhớ những gì bạn đã học. Hầu hết các sách tham khảo không có mục tiêu lưu giữ và nhớ lại, nhưng sách này là về học tập, vì vậy bạn sẽ thấy một số khái niệm giống nhau xuất hiện nhiều lần.
 
@@ -216,11 +216,11 @@ Chúng tôi đã đặt tất cả các tệp mẫu trên web để bạn có th
 
 ## Sự nhìn nhận
 
-Trước hết, xin gửi lời cảm ơn sâu sắc tới những người đánh giá kỹ thuật đáng kính của tôi: Elisabeth Robson đã xem xét cẩn thận và chuyên nghiệp bản thảo với con mắt khoa học máy tính và Head First nhạy bén. Josh Sharfman là người đánh giá MVP, người đã thêm chiều sâu và chất lượng cho mọi góc của cuốn sách. David Powers - theo phong cách thông thường của mình, đã xem xét kỹ lưỡng các văn bản kỹ thuật (kiến thức về Harry Potter của anh ấy cũng không quá tồi). Và tác giả kỳ cựu của Head First , Paul Barry đã cung cấp một con mắt phê bình rất cần thiết về Python. Ngoài ra, nhóm đánh giá của tôi là vô giá trên mọi khía cạnh của việc đánh giá cuốn sách.
+Trước hết, xin gửi lời cảm ơn sâu sắc tới những người đánh giá kỹ thuật đáng kính của tôi: Elisabeth Robson đã xem xét cẩn thận và chuyên nghiệp bản thảo với con mắt khoa học máy tính và Head First nhạy bén. Josh Sharfman là người đánh giá MVP, người đã thêm chiều sâu và chất lượng cho mọi góc của cuốn sách. David Powers - theo phong cách thông thường của mình, đã xem xét kỹ lưỡng các văn bản kỹ thuật (kiến thức về Harry Potter của anh ấy cũng không quá tồi). Và tác giả kỳ cựu của Head First, Paul Barry đã cung cấp một con mắt phê bình rất cần thiết về Python. Ngoài ra, nhóm đánh giá của tôi là vô giá trên mọi khía cạnh của việc đánh giá cuốn sách.
 
 ![](https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781491958858/files/assets/fxxxvii-01.png)
 
-Lời cảm ơn lớn nhất của tôi tới các biên tập viên của tôi, Jeff Bleiel , Dawn Schanafelt và Meghan Blanchette. Meghan là người có công trong việc đưa cuốn sách này thành công, Dawn đã cẩn thận xem nó qua các giai đoạn phát triển ban đầu của nó và Jeff đưa cuốn sách đến khi xuất bản.
+Lời cảm ơn lớn nhất của tôi tới các biên tập viên của tôi, Jeff Bleiel, Dawn Schanafelt và Meghan Blanchette. Meghan là người có công trong việc đưa cuốn sách này thành công, Dawn đã cẩn thận xem nó qua các giai đoạn phát triển ban đầu của nó và Jeff đưa cuốn sách đến khi xuất bản.
 
 Cũng xin gửi lời cảm ơn sâu sắc đến toàn bộ đội O'Reilly bao gồm Susan Conant, Rachel Roumeliotis và Melanie Yarbrough. Tại WickedlySmart, cảm ơn Jamie Burton vì tất cả sự giúp đỡ của cô ấy, bao gồm cả các cuộc khảo sát người đọc sớm và quản lý diễn đàn của nhóm đánh giá. Và như mọi khi, cảm ơn Bert Bates và Kathy Sierra về nguồn cảm hứng, cuộc thảo luận thú vị và tất cả sự trợ giúp của họ để giải quyết các câu hỏi hóc búa về viết lách. Cảm ơn Cory Doctorow đã hỗ trợ và cho mượn bài viết của anh ấy cho Chương 8.
 
