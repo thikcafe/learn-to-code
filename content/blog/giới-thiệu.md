@@ -2,7 +2,7 @@
 title: Giới thiệu
 date: 2022-06-20T08:46:39.032Z
 cover: https://learning.oreilly.com/api/v2/epubs/urn:orm:book:9781491958858/files/assets/fxxv-01.png
-tags: "# fundamental"
+tags: "# fundamental,"
 ---
 ## Cuốn sách này dành cho ai?
 
