@@ -1,7 +1,7 @@
 ---
 title: Shallow vs Deep copy in Javascript
 date: 2022-07-10T13:41:50.338Z
-tags: Javascript,
+tags: "# Javascript,"
 ---
 [How to differentiate between deep and shallow copies in JavaScript](https://www.freecodecamp.org/news/copying-stuff-in-javascript-how-to-differentiate-between-deep-and-shallow-copies-b6d8c1ef09cd/)
 
