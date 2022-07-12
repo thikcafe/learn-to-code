@@ -32,3 +32,11 @@ tags: "# notes, keywords,"
 
 > ref: creating *new* value 
 
+
+## Storage: 
+> <https://learning.oreilly.com/library/view/html5-cookbook/9781449318444/ch10.html#application_caching>
+
+local & session storage: data stored in these containers must be strings
+
+*The localStorage and sessionStorage APIs are synchronous in design, which makes them easier to use but can result in slower performance. Be careful using these APIs in performance-sensitive code.*
+
