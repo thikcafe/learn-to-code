@@ -3,7 +3,9 @@ title: My Notes
 date: 2022-07-10T14:05:17.316Z
 tags: "# notes, keywords,"
 ---
-![]()
+Functions have closure & this, while objects have prototype.
+
+This (how it is executed) => re-use a single function with data from *different objects*.
 
 ## Type & Value:
 
