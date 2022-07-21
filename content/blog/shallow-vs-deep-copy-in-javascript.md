@@ -11,7 +11,9 @@ tags: "# Javascript,"
 
 [structuredClone](https://web.dev/structured-clone/)
 
-*Remember*: for custom class, has to manually create copy in constructor (read Bonus in freeCodeCamp)
+- Custom classes => create copy in constructor
+- Non cloneable objects (DOM objects)
+- Functions (with closure?) => ignore
 
 **Notes**:
 
