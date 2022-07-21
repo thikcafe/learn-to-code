@@ -11,6 +11,8 @@ tags: "# Javascript,"
 
 [structuredClone](https://web.dev/structured-clone/)
 
+*Remember*: for custom class, has to manually create copy in constructor (read Bonus in freeCodeCamp)
+
 **Notes**:
 
 *Double danger* => Nested (array & object) is dangerous (**almost data in real application is nested**), AND in JavaScript, all standard built-in object-copy operations create shallow copies rather than deep copies (**some does not look like etc Array.prototype.concat()**).  
