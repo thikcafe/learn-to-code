@@ -9,6 +9,8 @@ tags: "# Javascript,"
 
 [Deep Copy (MDN)](https://developer.mozilla.org/en-US/docs/Glossary/Deep_copy)
 
+[structuredClone](https://web.dev/structured-clone/)
+
 **Notes**:
 
 *Double danger* => Nested (array & object) is dangerous (**almost data in real application is nested**), AND in JavaScript, all standard built-in object-copy operations create shallow copies rather than deep copies (**some does not look like etc Array.prototype.concat()**).  
